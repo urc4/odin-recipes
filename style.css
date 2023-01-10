@@ -1,0 +1,67 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #afd4af;
+    color: #e6e6e6;
+}
+
+.page-title {
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+.center {
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+p {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+ul {
+    font-weight: 400;
+    background-color: indianred; 
+    text-align: center;
+    list-style-type: none;
+}
+
+ul a{
+    color: rgb(24, 139, 141);
+}
+
+.pages {
+    width: 50%;
+}
+
+.ingredients li{
+    list-style-type: none;
+    color: black;
+}
+
+ol li {
+    background-color: aqua;
+    color: black;
+    font-size: 17px;
+    font-weight: 200;
+}
+
+ol p {
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.back-home {
+    color: darkslateblue;
+    font-size: 20px;
+}
+
+
+
+
+
